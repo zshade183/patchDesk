@@ -1,0 +1,1 @@
+"""PatchDesk desktop application."""
